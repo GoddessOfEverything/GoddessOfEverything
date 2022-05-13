@@ -1,6 +1,6 @@
-- 👋 Hi, the I’m @GoddessOfEverything
+- 👋 Hi, I’m the @GoddessOfEverything 
 - 👀 I’m interested in ... Web Dev, Cats, Dr Who, Queen, RuPaul
-- 🌱 I’m currently learning ... HTML, CSS and JS
+- 🌱 I’m currently learning ... HTML, CSS, JS and Python 
 - 💞️ I’m looking to collaborate on ... Anything interesting in tech
 - 📫 How to reach me ... https://twitter.com/GoddessOfAllUK or https://www.linkedin.com/in/kylaramsaygraham/
 <!---
